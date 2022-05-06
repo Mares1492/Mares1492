@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mares1492
-- 👀 I’m interested in phyton
-- 🌱 I’m currently learning at Tallinn University
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in React, js, java, phyton
+- 🌱 I’m currently studing at Tallinn University
+- 💞️ I’m looking to collaborate on project with a lot of small user focused features
+- 📫 How to reach me msumarok@tlu.ee
 
 <!---
 Mares1492/Mares1492 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
