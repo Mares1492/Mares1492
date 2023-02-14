@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mares1492
-- 👀 I’m interested in React, Node.js, Java and Python
+- 👀 I’m interested in JS, React, Node.js, Java and Python
 - 🔝 Actively leaning Flutter/Dart atm 
 - 🌱 I’m currently studing at Tallinn University
 - 💞️ I’m looking to collaborate on project with a lot of small user focused features
