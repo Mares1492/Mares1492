@@ -2,7 +2,7 @@
 - 👀 I’m interested in JS, React, Node.js, Java and Python
 - 🔝 Actively learning Flutter/Dart and C atm 
 - 🌱 I’m currently studing at Tallinn University
-- 💞️ I’m looking to collaborate on project with a lot of small user focused features
+- :alien: Open-minded
 - 📫 How to reach me msumarok@gmail.com
 
 <!---
