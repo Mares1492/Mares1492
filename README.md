@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mares1492
-- 👀 I’m interested in JS, React, Node.js, Java and Python
-- 🔝 Actively learning Flutter/Dart and C atm 
+- 👀 I’m interested in JS, React, Node.js, Flutter/Dart and C
+- 🔝 Actively learning C++ atm 
 - 🌱 I’m currently studing at Tallinn University
 - :alien: Open-minded
 - 📫 How to reach me msumarok@gmail.com
