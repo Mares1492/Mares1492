@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mares1492
+- 👋 Hi, I’m Mares Sumarok
 - 👀 I’m interested in JS, React, Node.js, Flutter/Dart C and C++ 
 - 🔝 Actively learning Svelte atm 
 - 🌱 I’m currently studing at Tallinn University
