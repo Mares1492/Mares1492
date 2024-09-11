@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mares Sumarok
-- 👀 I’m interested in JS, React, Node.js, Flutter/Dart C and C++ 
-- 🔝 Actively learning Svelte atm 
+- 👀 I’m interested in JS, Svelte, React, Node.js, Flutter/Dart, C, C++, Godot and in gamedev in general 
+- 🎮 Creating my own action RPG atm 
 - 🌱 I’m currently studing at Tallinn University
 - :alien: Open-minded
 - 📫 How to reach me msumarok@gmail.com
