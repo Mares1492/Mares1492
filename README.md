@@ -2,7 +2,7 @@
 - 👀 I’m interested in JS, Svelte, React, Node.js, Flutter/Dart, C, C++, Godot and in gamedev in general 
 - 🎮 Creating my own action RPG atm 
 - 🌱 Final Steps for the Bachelor of Computer Science at Tallinn University
-- :alien: Open-minded
+- :alien: Open-minded :godmode:
 - 📫 How to reach me msumarok@gmail.com
 
 <!---
