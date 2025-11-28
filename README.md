@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mares Sumarok
+- 👋 Hi, I’m Mares
 - 👀 I’m interested in JS, Svelte, React, Node.js, Pixi.js, C, C++, Python, Godot and GameDev in general.
 - 🎮 Creating my own action RPG atm
 - 🤘 Also learning Golang
